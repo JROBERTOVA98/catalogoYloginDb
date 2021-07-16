@@ -1,0 +1,4 @@
+0 - 7: labios
+8 - 15: ojos
+16 - 27: rostro
+28 - 34: uñas
